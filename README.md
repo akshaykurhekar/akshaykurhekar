@@ -1,11 +1,11 @@
-### Hi there, I'm Akshay Manohar Kurhekar👋
+### Hi there, I'm ❤️ Akshay Manohar Kurhekar👋
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Student, Developer, and Learner ❤️!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😀
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and Clay Modelling
+- 🥅 2021 Goals: Practice Practice Practice and Practice ... 😇 
+- ⚡ Fun fact: I love to draw and Clay Modelling ❤️
 
 ### Connect with me:
 <a href="https://akshaykurhekar.github.io/AkshayKurhekarPortfolio/" target="_blank"><img align="left" alt="akshayK" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><a/>
