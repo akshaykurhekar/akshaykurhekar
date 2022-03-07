@@ -1,11 +1,10 @@
 ### Hi there, I'm ❤️ Akshay Manohar Kurhekar👋
 
-## I'm a Student, Developer, and Learner ❤️!!
+## I'm a Explorer and Learner ❤️!!
 
-- 🌱 I’m currently learning everything 😀
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Practice Practice Practice and Practice ... 😇 
-- ⚡ Fun fact: I love to draw and Clay Modelling ❤️
+- ⚡ I’m currently learning Blockchain 😍
+- 👯 I’m looking to collaborate with others to create world class Projects
+- 🥅 All Time Goal: Practice Practice Practice and Practice ... 💪
 
 ### Connect with me:
 <a href="https://akshaykurhekar.github.io/AkshayKurhekarPortfolio/" target="_blank"><img align="left" alt="akshayK" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><a/>
