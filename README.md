@@ -1,8 +1,8 @@
 ### Hi there, I'm ❤️ Akshay Manohar Kurhekar👋
 
-## I'm a Explorer and Learner ❤️!!
+## Blockchain Developer | Web3 Speaker & Instructor ❤️!!
 
-- ⚡ I’m currently learning Blockchain 😍
+- ⚡ I’m currently working on Blockchain 😍
 - 👯 I’m looking to collaborate with others to create world class Projects
 - 🥅 All Time Goal: Practice Practice Practice and Practice ... 💪
 
