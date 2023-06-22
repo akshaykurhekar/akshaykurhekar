@@ -1,12 +1,12 @@
 ### Hi there, I'm ❤️ Akshay Manohar Kurhekar👋
 
-## Blockchain Developer | Youtuber ❤️!!
+## Blockchain Developer | Youtuber ❤️🚀
 
-- ⚡ I’m currently working on Blockchain 😍
+- ⚡ I’m currently working on Blockchain 🚀
 - 👯 I’m looking to collaborate with others to create world-class Projects
 - 🥅 All Time Goal: Practice Practice Practice and Practice ... 💪
 
-## Youtube Channel : <a href="https://www.youtube.com/@AkshayKurhekar" target="_blank"><img align="left" alt="AkshayK | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
+## Youtube Channel [Akshay Kurhekar](https://www.youtube.com/@AkshayKurhekar)
 
 ### Connect with me:
 
